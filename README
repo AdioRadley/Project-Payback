@@ -5,3 +5,7 @@ The idea is for the user to input the name of the person who footed the bill and
 -Keep track of members: create Linked List, write to file, 
 -Take actions: read from file, -> linked list, do math
 -Spit out: Names, $spent, $owed between people; GUI
+
+insert
+delete
+printlist
