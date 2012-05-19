@@ -2,4 +2,6 @@ This code will keep track of who pays for groceries, and output who owes whom ho
 
 5/15/12:
 The idea is for the user to input the name of the person who footed the bill and the amount of money that the grocery run incurred.  The program will keep track of how much money each person has paid.
--Create Linked List, write to file, read from file/spit back out, 
+-Keep track of members: create Linked List, write to file, 
+-Take actions: read from file, -> linked list, do math
+-Spit out: Names, $spent, $owed between people; GUI
